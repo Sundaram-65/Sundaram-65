@@ -22,7 +22,7 @@
   Institution    : IIIT Una
   Interests      : MERN Stack, Data Structures & Algorithms
   Location       : Gwalior, India
-  Contact        : sundaram.work@gmail.com
+  Contact        : sundaram62.work@gmail.com
 }
 
 ```
