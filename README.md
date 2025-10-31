@@ -69,7 +69,7 @@
 <br><br>
 <br><br>
 <br><br>
-<br><br>
+
 <!-- Github Stats -->
 <h2 align="left">
   <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="25px" height="25px"> 
