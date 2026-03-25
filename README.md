@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img width="380" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=650&lines=Passionate+Frontend+Developer;Tech+Enthusiast" alt="Typing SVG" />
+    <img width="380" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=650&lines=Passionate+MERN+Developer;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -44,7 +44,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-4B8BBE?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <!-- <img src="https://img.shields.io/badge/Java-F8981D?style=for-the-badge&logo=java&logoColor=white" alt="Java"> -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
